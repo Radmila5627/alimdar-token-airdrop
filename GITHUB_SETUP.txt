@@ -1,0 +1,8 @@
+Repository name:
+alimdar-token-airdrop
+
+Description:
+Official Alimdar Token (AT) claim airdrop dApp on BNB Smart Chain.
+
+Topics:
+airdrop, bnb-chain, solidity, nextjs, vercel, web3, token, merkle-airdrop
