@@ -1,0 +1,9 @@
+useEffect(() => {
+
+  if (typeof window === "undefined") return;
+
+  if (window.ethereum) {
+    setHasProvider(true);
+  }
+
+}, []);

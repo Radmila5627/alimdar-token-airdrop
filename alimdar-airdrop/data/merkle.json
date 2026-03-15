@@ -1,4 +1,13 @@
-{
-  "root": "0xRUN_NPM_RUN_BUILD_AIRDROP",
-  "claims": {}
+ {
+  "root": "0xeda64b963977641dbd357f6f11887471563fb59fd595c0ff94fcdd90524b26cb",
+  "totalRecipients": 1,
+  "totalAmountRaw": "1000000000000000000000",
+  "totalAmountFormatted": "1000",
+  "claims": {
+    "0xAAE931b63Be266D44e0Be5d66fedE0c1c3b53379": {
+      "amount": "1000000000000000000000",
+      "amountFormatted": "1000.0",
+      "proof": []
+    }
+  }
 }
